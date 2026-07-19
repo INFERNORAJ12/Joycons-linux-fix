@@ -1,7 +1,7 @@
 #!/bin/bash
 
-JOY_R="48:F1:EB:B3:6B:89"
-JOY_L="48:F1:EB:B3:C7:4C"
+JOY_R="RIGHT_JOYCON_MAC_ADDRESS"
+JOY_L="LEFT_JOYCON_MAC_ADDRESS"
 
 # Open GNOME Bluetooth settings (this automatically starts discovery)
 gnome-control-center bluetooth &
